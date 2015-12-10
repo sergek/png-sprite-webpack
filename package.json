@@ -5,10 +5,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexandershved/png-sprite-webpack.git"
+    "url": "git+https://github.com/sergek/png-sprite-webpack.git"
   },
   "bugs": {
-    "url": "https://github.com/alexandershved/png-sprite-webpack/issues"
+    "url": "https://github.com/sergek/png-sprite-webpack/issues"
   },
   "keywords": [
     "sprite",
@@ -20,7 +20,9 @@
     "stylus",
     "png"
   ],
-  "author": "alexandershved",
+  "author": {
+    "name": "alexandershved"
+  },
   "license": "MIT",
   "dependencies": {
     "async": "^1.4.2",
